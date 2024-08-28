@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/tim/Desktop/BFG/Software Development/2024 - OSC Sender/OSCsender/app/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/tim/Desktop/BFG/Software Development/2024 - OSC Sender/OSCsender/app/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/OSCsender.app

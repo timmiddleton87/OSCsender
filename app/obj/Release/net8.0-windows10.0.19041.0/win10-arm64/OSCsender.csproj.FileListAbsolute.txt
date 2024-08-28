@@ -1,0 +1,5 @@
+/Users/tim/Desktop/BFG/Software Development/2024 - OSC Sender/OSCsender/obj/Release/net8.0-windows10.0.19041.0/win10-arm64/OSCsender.csproj.AssemblyReference.cache
+/Users/tim/Desktop/BFG/Software Development/2024 - OSC Sender/OSCsender/obj/Release/net8.0-windows10.0.19041.0/win10-arm64/mauiimage.inputs
+/Users/tim/Desktop/BFG/Software Development/2024 - OSC Sender/OSCsender/obj/Release/net8.0-windows10.0.19041.0/win10-arm64/mauifont.inputs
+/Users/tim/Desktop/BFG/Software Development/2024 - OSC Sender/OSCsender/obj/Release/net8.0-windows10.0.19041.0/win10-arm64/mauisplash.inputs
+/Users/tim/Desktop/BFG/Software Development/2024 - OSC Sender/OSCsender/obj/Release/net8.0-windows10.0.19041.0/win10-arm64/mauimanifest.stamp
